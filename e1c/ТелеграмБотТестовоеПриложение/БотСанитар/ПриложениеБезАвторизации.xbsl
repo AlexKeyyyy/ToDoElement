@@ -1,0 +1,4 @@
+@Локально
+метод КнопкаПриНажатии(Источник: Кнопка, Событие: СобытиеПриНажатии)
+    ПерейтиПоСсылке("https://app-953477663.1cmycloud.com/applications/TelegramBotTestovoePrilozhenie/todo", Ложь)
+;
